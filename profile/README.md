@@ -1,1 +1,1 @@
-Unofficial Open Source Projects by University of Lampung
+Projects by Computer Science University of Lampung
